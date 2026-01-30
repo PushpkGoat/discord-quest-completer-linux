@@ -1,5 +1,6 @@
 # 🐉 Discord Quest Completer (Linux)
 Doesnt really complete quests as of new discord update but can still spoof your activity status to whatever game you want.
+
 (Actually it isnt completely made by me and is just fork of [https://github.com/markterence/discord-quest-completer])
 
 A lightweight desktop application built with Tauri and Rust that allows you to complete Discord Quests without downloading, installing, or playing the actual games. 
